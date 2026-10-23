@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix WebFlow Mobile",
+  "description": "Convert your existing APK or website into a fully responsive and mobile-friendly application effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
